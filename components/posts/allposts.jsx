@@ -1,4 +1,4 @@
-import Postsgrid from './postGrid'
+import Postsgrid from './postgrid'
 import styled from './allposts.module.css'
 export default function Allposts({ posts }) {
   return (
